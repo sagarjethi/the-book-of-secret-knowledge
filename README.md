@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="center good">
   <sub>Created by
   <a href="https://twitter.com/trimstray">trimstray</a> and
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
